@@ -1,0 +1,93 @@
+City,Country,Continent
+New York,USA,North America
+Los Angeles,USA,North America
+Toronto,Canada,North America
+Vancouver,Canada,North America
+London,UK,Europe
+Manchester,UK,Europe
+Paris,France,Europe
+Berlin,Germany,Europe
+Madrid,Spain,Europe
+Rome,Italy,Europe
+Tokyo,Japan,Asia
+Osaka,Japan,Asia
+Beijing,China,Asia
+Shanghai,China,Asia
+Mumbai,India,Asia
+Delhi,India,Asia
+Sydney,Australia,Oceania
+Melbourne,Australia,Oceania
+Rio de Janeiro,Brazil,South America
+São Paulo,Brazil,South America
+Buenos Aires,Argentina,South America
+Lima,Peru,South America
+Cape Town,South Africa,Africa
+Johannesburg,South Africa,Africa
+Cairo,Egypt,Africa
+Nairobi,Kenya,Africa
+Moscow,Russia,Europe
+Istanbul,Turkey,Europe/Asia
+Dubai,UAE,Asia
+Abu Dhabi,UAE,Asia
+Seoul,South Korea,Asia
+Busan,South Korea,Asia
+Mexico City,Mexico,North America
+Guadalajara,Mexico,North America
+Bangkok,Thailand,Asia
+Phuket,Thailand,Asia
+Jakarta,Indonesia,Asia
+Bali,Indonesia,Asia
+Singapore,Singapore,Asia
+Kuala Lumpur,Malaysia,Asia
+Hanoi,Vietnam,Asia
+Ho Chi Minh City,Vietnam,Asia
+Santiago,Chile,South America
+Bogotá,Colombia,South America
+Caracas,Venezuela,South America
+Quito,Ecuador,South America
+Athens,Greece,Europe
+Dublin,Ireland,Europe
+Oslo,Norway,Europe
+Stockholm,Sweden,Europe
+Helsinki,Finland,Europe
+Copenhagen,Denmark,Europe
+Brussels,Belgium,Europe
+Amsterdam,Netherlands,Europe
+Warsaw,Poland,Europe
+Prague,Czech Republic,Europe
+Vienna,Austria,Europe
+Budapest,Hungary,Europe
+Lisbon,Portugal,Europe
+Zurich,Switzerland,Europe
+Geneva,Switzerland,Europe
+Reykjavik,Iceland,Europe
+Edinburgh,Scotland,Europe
+Glasgow,Scotland,Europe
+Belgrade,Serbia,Europe
+Sofia,Bulgaria,Europe
+Bucharest,Romania,Europe
+Bratislava,Slovakia,Europe
+Tallinn,Estonia,Europe
+Riga,Latvia,Europe
+Vilnius,Lithuania,Europe
+Luxembourg,Luxembourg,Europe
+Montevideo,Uruguay,South America
+Asunción,Paraguay,South America
+Sucre,Bolivia,South America
+Georgetown,Guyana,South America
+Kingston,Jamaica,North America
+Port-au-Prince,Haiti,North America
+San Juan,Puerto Rico,North America
+Bridgetown,Barbados,North America
+Casablanca,Morocco,Africa
+Accra,Ghana,Africa
+Lagos,Nigeria,Africa
+Dakar,Senegal,Africa
+Addis Ababa,Ethiopia,Africa
+Algiers,Algeria,Africa
+Tunis,Tunisia,Africa
+Khartoum,Sudan,Africa
+Dar es Salaam,Tanzania,Africa
+Lusaka,Zambia,Africa
+Harare,Zimbabwe,Africa
+Kampala,Uganda,Africa

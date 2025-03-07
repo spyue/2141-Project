@@ -1,0 +1,709 @@
+Student_ID,Gender,Study_Hours_per_Week,Attendance_Rate,Past_Exam_Scores,Parental_Education_Level,Internet_Access_at_Home,Final_Exam_Score,Pass_Fail,City,Extracurricular_Activity
+147,Male,31,68.26784098370288,86,High School,Yes,63,Pass,Manchester,Basketball
+136,Male,16,78.22292712613206,73,PhD,No,50,Fail,Bridgetown,Science Club
+209,Female,21,87.52509623826568,74,PhD,Yes,55,Fail,Paris,Chess Club
+458,Female,27,92.07648301550216,99,Bachelors,No,65,Pass,Glasgow,Volunteering
+78,Female,37,98.65551746350522,63,Masters,No,70,Pass,London,Soccer
+417,Male,30,84.15919282227406,77,Masters,Yes,61,Pass,Dubai,Volunteering
+302,Male,24,89.38949443572463,95,High School,Yes,61,Pass,Singapore,Soccer
+9,Male,31,50.68359824134986,78,Masters,No,50,Fail,Prague,Volunteering
+44,Female,34,80.8631856048646,94,PhD,No,65,Pass,Nairobi,Basketball
+331,Male,27,65.49684631343055,86,High School,Yes,55,Fail,Copenhagen,Chess Club
+451,Female,35,69.83246865260271,58,High School,Yes,57,Fail,Johannesburg,Drama Club
+59,Male,11,92.10457075093548,95,Masters,Yes,62,Pass,Prague,Basketball
+315,Male,25,78.88159770457736,81,High School,No,59,Fail,Los Angeles,Music Club
+295,Female,18,66.60732063274695,64,High School,No,50,Fail,Melbourne,Chess Club
+141,Female,12,62.21765777323273,62,Masters,Yes,50,Fail,Seoul,Swimming
+274,Female,34,55.03973015079433,71,High School,Yes,50,Fail,Quito,Coding Club
+327,Male,32,93.0316008945367,78,Bachelors,Yes,77,Pass,Budapest,Coding Club
+413,Female,24,71.08519672766408,81,Masters,Yes,56,Fail,Oslo,Volunteering
+452,Female,37,97.70434682698166,55,High School,Yes,58,Fail,New York,Basketball
+386,Female,39,85.19730675692547,62,PhD,Yes,57,Fail,Singapore,Basketball
+458,Female,27,92.07648301550216,99,Bachelors,No,65,Pass,Harare,Science Club
+79,Male,14,80.09676977704801,79,High School,No,55,Fail,Oslo,Chess Club
+375,Male,36,97.22048627886367,93,Masters,Yes,65,Pass,Bridgetown,Coding Club
+384,Male,27,93.82220379376469,57,High School,Yes,57,Fail,Toronto,Drama Club
+207,Female,20,89.07572408757075,92,Bachelors,Yes,62,Pass,Glasgow,Soccer
+71,Female,26,70.01502444551407,69,Bachelors,No,50,Fail,Addis Ababa,Soccer
+489,Male,27,99.0288400089994,85,High School,Yes,64,Pass,Tallinn,Science Club
+66,Female,38,78.98249672358692,96,Masters,No,71,Pass,Rome,Chess Club
+18,Female,32,68.89252746378932,66,PhD,Yes,58,Fail,Cape Town,Volunteering
+15,Female,27,79.25747661627359,67,Masters,Yes,50,Fail,Phuket,Drama Club
+155,Male,39,50.91212407141805,52,Bachelors,No,50,Fail,Moscow,Coding Club
+159,Male,14,78.799920890283,91,PhD,No,61,Pass,London,Science Club
+368,Female,15,77.8360792391683,95,Masters,No,61,Pass,Copenhagen,Chess Club
+104,Female,28,96.20208795537168,83,High School,No,67,Pass,Cairo,Soccer
+329,Female,20,59.2231435709428,96,Bachelors,No,64,Pass,Budapest,Soccer
+397,Female,37,93.05340099873608,81,Bachelors,No,61,Pass,Riga,Swimming
+97,Female,29,68.86429826210363,92,High School,No,64,Pass,Dakar,Music Club
+112,Male,14,84.35827527016656,94,High School,Yes,59,Fail,Caracas,Music Club
+370,Male,28,90.26574836789526,74,PhD,No,64,Pass,Bangkok,Music Club
+463,Female,13,73.71186543501848,77,PhD,Yes,55,Fail,Zurich,Drama Club
+60,Male,32,88.44588706576988,78,High School,No,56,Fail,Riga,Music Club
+41,Male,37,81.96806784871211,67,Bachelors,No,56,Fail,Georgetown,Drama Club
+97,Female,29,68.86429826210363,92,High School,No,64,Pass,Dakar,Soccer
+216,Male,21,65.80982911482474,92,Bachelors,Yes,65,Pass,Buenos Aires,Drama Club
+430,Female,23,86.60922892295312,79,High School,Yes,55,Fail,Accra,Coding Club
+377,Female,35,70.3196154136761,85,PhD,No,59,Fail,Manchester,Chess Club
+187,Female,22,60.08652311651179,78,Masters,No,50,Fail,Seoul,Debate Team
+233,Female,35,66.64078929562422,78,Masters,Yes,54,Fail,Shanghai,Swimming
+166,Male,16,85.92286354182768,83,PhD,Yes,55,Fail,Dubai,Volunteering
+207,Female,20,89.07572408757075,92,Bachelors,Yes,62,Pass,Berlin,Drama Club
+419,Female,37,76.48308393275406,82,High School,No,63,Pass,Accra,Music Club
+33,Female,19,90.81928676065311,88,PhD,Yes,56,Fail,Luxembourg,Swimming
+185,Male,33,77.43015589690766,94,Bachelors,Yes,58,Fail,Oslo,Volunteering
+57,Female,37,89.82358878369386,84,High School,No,68,Pass,Caracas,Basketball
+372,Female,21,80.15987010884898,63,High School,Yes,50,Fail,New York,Chess Club
+395,Male,12,88.69172616006702,80,PhD,No,50,Fail,Sydney,Basketball
+211,Male,10,91.25663383463989,85,Bachelors,Yes,63,Pass,Mexico City,Volunteering
+361,Female,29,62.69442820216521,56,Masters,Yes,54,Fail,Brussels,Soccer
+382,Female,22,92.40640477334418,51,Bachelors,Yes,53,Fail,New York,Debate Team
+389,Male,37,66.79329285749175,70,Bachelors,No,55,Fail,Glasgow,Soccer
+387,Male,35,95.5312001770152,66,High School,Yes,65,Pass,Mexico City,Soccer
+380,Male,39,81.66203874554803,97,Bachelors,Yes,66,Pass,Johannesburg,Swimming
+20,Male,36,60.25226642532625,80,Bachelors,No,50,Fail,Reykjavik,Swimming
+445,Female,15,91.85394953515149,93,Bachelors,No,67,Pass,Cape Town,Coding Club
+380,Male,39,81.66203874554803,97,Bachelors,Yes,66,Pass,Bucharest,Basketball
+99,Female,22,93.41505535177934,88,High School,No,63,Pass,Berlin,Music Club
+448,Female,37,86.07664305609528,60,Bachelors,Yes,51,Fail,Toronto,Science Club
+408,Female,35,87.08434721143328,73,Masters,No,60,Pass,Hanoi,Volunteering
+89,Female,15,56.43741991498219,58,Bachelors,Yes,50,Fail,Rio de Janeiro,Drama Club
+49,Female,17,54.55010455256652,91,PhD,No,50,Fail,Sydney,Coding Club
+194,Male,26,80.30509405279193,62,High School,No,56,Fail,Prague,Coding Club
+121,Female,35,59.1141939237979,55,PhD,No,57,Fail,Montevideo,Music Club
+362,Male,26,59.80565498467264,52,High School,No,50,Fail,Dubai,Basketball
+322,Male,16,60.634039217061314,76,Bachelors,No,50,Fail,Lusaka,Chess Club
+499,Male,24,73.66050590406667,68,High School,Yes,57,Fail,Helsinki,Chess Club
+251,Female,34,76.82406757422973,55,High School,Yes,50,Fail,Dar es Salaam,Coding Club
+314,Male,32,62.4113221378576,60,High School,No,50,Fail,Stockholm,Science Club
+200,Male,27,96.64690335499772,65,Bachelors,No,63,Pass,Busan,Music Club
+399,Female,34,98.7273632599435,94,Bachelors,No,66,Pass,Addis Ababa,Debate Team
+72,Female,29,84.88337868484659,54,Masters,Yes,50,Fail,Busan,Swimming
+162,Male,35,98.75335814725712,89,Bachelors,Yes,71,Pass,Asunción,Soccer
+440,Male,20,97.93135886566102,95,Bachelors,No,61,Pass,Nairobi,Debate Team
+139,Male,38,94.98236985725062,84,PhD,Yes,71,Pass,Istanbul,Chess Club
+449,Male,30,80.52023335039789,52,PhD,Yes,59,Fail,Johannesburg,Soccer
+108,Female,37,86.02580306957324,57,PhD,No,60,Pass,Edinburgh,Soccer
+476,Female,23,65.72982784047055,91,Bachelors,No,58,Fail,Istanbul,Basketball
+68,Male,35,76.8631708357035,79,PhD,Yes,57,Fail,Osaka,Music Club
+178,Male,11,54.36450897948377,62,High School,No,50,Fail,Los Angeles,Basketball
+406,Female,30,74.2389183575173,71,High School,Yes,60,Pass,Osaka,Swimming
+340,Female,15,79.37268021170371,83,High School,Yes,61,Pass,Bogotá,Debate Team
+368,Female,15,77.8360792391683,95,Masters,No,61,Pass,Sydney,Coding Club
+370,Male,28,90.26574836789526,74,PhD,No,64,Pass,Singapore,Basketball
+379,Female,16,54.346250747517466,87,High School,No,50,Fail,Dubai,Drama Club
+246,Female,33,60.22722965847316,83,PhD,No,56,Fail,Moscow,Drama Club
+164,Female,25,86.14480483108878,54,Masters,No,50,Fail,Jakarta,Debate Team
+8,Male,19,56.69260594003166,72,Bachelors,Yes,50,Fail,Amsterdam,Music Club
+51,Male,25,77.37231534495558,79,Masters,No,57,Fail,Edinburgh,Drama Club
+142,Male,21,74.91238489244701,96,High School,No,61,Pass,Hanoi,Swimming
+394,Female,10,67.25960724406377,96,Masters,No,64,Pass,Cairo,Science Club
+45,Female,13,99.02313625461888,91,PhD,Yes,55,Fail,Vilnius,Basketball
+13,Male,23,87.49553747349859,88,Bachelors,Yes,57,Fail,Belgrade,Drama Club
+85,Male,21,77.43576546037043,97,Bachelors,Yes,52,Fail,Bridgetown,Music Club
+300,Female,28,87.21248259216443,75,Bachelors,No,65,Pass,Addis Ababa,Debate Team
+438,Female,32,71.10180297753436,88,Masters,Yes,51,Fail,Dubai,Coding Club
+439,Male,34,67.69356882806247,75,Bachelors,No,56,Fail,Oslo,Music Club
+12,Male,17,76.71731375147316,79,High School,No,50,Fail,Bangkok,Science Club
+366,Male,13,78.47217588817502,52,Masters,No,50,Fail,Shanghai,Swimming
+380,Male,39,81.66203874554803,97,Bachelors,Yes,66,Pass,Shanghai,Basketball
+180,Male,19,96.60071711284672,54,Bachelors,No,52,Fail,Paris,Volunteering
+486,Female,19,87.95179227694248,100,High School,No,64,Pass,Lagos,Swimming
+431,Male,24,62.53653302807989,82,PhD,Yes,52,Fail,Warsaw,Science Club
+160,Female,21,95.86978065427658,58,Bachelors,Yes,66,Pass,Delhi,Volunteering
+353,Male,14,94.87152049094422,74,Masters,Yes,63,Pass,Paris,Chess Club
+265,Male,33,91.33994139045392,53,PhD,No,50,Fail,Copenhagen,Swimming
+152,Male,14,52.78267446784877,77,PhD,No,50,Fail,London,Drama Club
+147,Male,31,68.26784098370288,86,High School,Yes,63,Pass,Buenos Aires,Drama Club
+259,Female,12,88.59409902991226,77,High School,Yes,50,Fail,Copenhagen,Science Club
+429,Male,26,63.32491966854411,62,Bachelors,Yes,50,Fail,Cairo,Debate Team
+14,Male,33,95.65828761288212,84,Masters,Yes,61,Pass,Kingston,Debate Team
+159,Male,14,78.799920890283,91,PhD,No,61,Pass,Montevideo,Volunteering
+482,Female,14,54.33526059310918,61,Bachelors,No,50,Fail,Khartoum,Coding Club
+297,Female,37,61.36978104385563,100,High School,Yes,66,Pass,Osaka,Basketball
+55,Male,32,76.18011380075056,81,Bachelors,No,56,Fail,Mumbai,Volunteering
+207,Female,20,89.07572408757075,92,Bachelors,Yes,62,Pass,Beijing,Chess Club
+280,Female,39,89.50423185620434,67,PhD,No,64,Pass,San Juan,Volunteering
+34,Female,32,98.39868827199116,64,PhD,Yes,67,Pass,Quito,Basketball
+494,Female,33,83.49587322750196,100,PhD,No,71,Pass,Lisbon,Drama Club
+163,Female,35,74.53743896293922,74,High School,Yes,57,Fail,Budapest,Volunteering
+433,Male,30,74.71369250691357,75,High School,Yes,53,Fail,Copenhagen,Science Club
+28,Female,20,51.109237101515085,92,PhD,Yes,51,Fail,Helsinki,Coding Club
+328,Male,38,76.75348594668293,70,Bachelors,No,64,Pass,Bridgetown,Volunteering
+355,Female,28,90.03748857430605,78,Masters,Yes,67,Pass,Riga,Volunteering
+225,Female,12,78.87431354530628,79,Masters,No,51,Fail,Paris,Music Club
+160,Female,21,95.86978065427658,58,Bachelors,Yes,66,Pass,Tokyo,Basketball
+213,Male,17,61.78458730324999,87,PhD,No,57,Fail,Asunción,Soccer
+435,Female,31,91.9053481589148,88,Masters,Yes,68,Pass,Sofia,Basketball
+271,Female,32,80.74751315763272,76,High School,Yes,52,Fail,Kuala Lumpur,Soccer
+365,Male,22,66.96356229480955,73,Masters,No,61,Pass,Harare,Chess Club
+186,Male,14,77.44609899444886,81,PhD,No,57,Fail,Helsinki,Chess Club
+284,Male,31,68.7217684860211,78,Bachelors,No,53,Fail,Bucharest,Volunteering
+19,Female,11,62.05424161648159,63,High School,No,52,Fail,Istanbul,Science Club
+280,Female,39,89.50423185620434,67,PhD,No,64,Pass,Harare,Coding Club
+143,Female,35,66.5174240640457,74,Masters,Yes,59,Fail,San Juan,Debate Team
+299,Male,29,68.96528491927744,72,Bachelors,No,50,Fail,Jakarta,Science Club
+90,Female,22,66.50497566550777,64,PhD,No,50,Fail,Kuala Lumpur,Soccer
+214,Male,19,81.68792818600886,56,Masters,No,50,Fail,Delhi,Drama Club
+369,Male,37,86.04065481552533,64,High School,No,61,Pass,Zurich,Science Club
+375,Male,36,97.22048627886367,93,Masters,Yes,65,Pass,Abu Dhabi,Basketball
+402,Female,34,78.28883099832802,87,High School,Yes,65,Pass,Bogotá,Music Club
+344,Female,17,76.72279456286235,73,PhD,Yes,50,Fail,Mexico City,Coding Club
+480,Female,27,84.52801162228204,61,Masters,No,52,Fail,Hanoi,Soccer
+279,Male,26,95.93752611303732,75,Masters,No,61,Pass,Mumbai,Swimming
+262,Female,27,78.27541736614869,86,PhD,No,59,Fail,Rome,Science Club
+86,Male,14,76.72117518662616,50,PhD,Yes,50,Fail,Vilnius,Swimming
+61,Male,31,53.311798892593295,98,Bachelors,No,67,Pass,Accra,Debate Team
+305,Female,14,70.72522921018138,53,High School,Yes,50,Fail,Abu Dhabi,Soccer
+414,Male,30,56.61381055626652,64,High School,No,52,Fail,New York,Volunteering
+228,Female,35,76.5928739844087,67,Bachelors,No,62,Pass,Bridgetown,Coding Club
+335,Female,19,67.46934995246664,54,PhD,No,50,Fail,Toronto,Science Club
+74,Female,15,84.82507331135395,79,PhD,No,57,Fail,Addis Ababa,Science Club
+399,Female,34,98.7273632599435,94,Bachelors,No,66,Pass,Riga,Drama Club
+216,Male,21,65.80982911482474,92,Bachelors,Yes,65,Pass,Glasgow,Debate Team
+459,Male,37,92.32039246572786,61,Masters,No,61,Pass,Cairo,Debate Team
+493,Male,32,52.5797903329355,81,Masters,No,50,Fail,Manchester,Science Club
+367,Female,13,94.37302412567516,69,PhD,No,62,Pass,Warsaw,Soccer
+403,Male,33,99.26836561208674,90,High School,Yes,64,Pass,Algiers,Soccer
+35,Female,35,54.42041116828233,98,Bachelors,No,59,Fail,Dar es Salaam,Music Club
+119,Female,30,55.24345832662405,98,Bachelors,No,62,Pass,New York,Debate Team
+3,Male,32,69.64947244894296,58,PhD,Yes,57,Fail,Khartoum,Chess Club
+261,Male,13,79.92213506026135,79,Bachelors,No,52,Fail,Lima,Basketball
+264,Male,16,79.95146823886633,71,Bachelors,No,55,Fail,Dublin,Basketball
+478,Female,38,98.10493928820588,60,Masters,Yes,64,Pass,Bali,Basketball
+465,Female,31,67.57700805671094,96,PhD,No,62,Pass,Montevideo,Coding Club
+365,Male,22,66.96356229480955,73,Masters,No,61,Pass,São Paulo,Coding Club
+326,Female,12,77.86526844450239,77,Bachelors,Yes,50,Fail,Port-au-Prince,Music Club
+298,Male,23,80.39471968971293,60,PhD,No,50,Fail,Tunis,Basketball
+253,Female,19,72.85001096408392,79,Masters,No,53,Fail,Prague,Swimming
+223,Female,28,76.98905309573165,81,Bachelors,Yes,65,Pass,Istanbul,Coding Club
+189,Male,25,54.39340556213284,52,Bachelors,Yes,50,Fail,Bratislava,Drama Club
+124,Male,24,54.46021643560281,96,Bachelors,No,51,Fail,Georgetown,Coding Club
+223,Female,28,76.98905309573165,81,Bachelors,Yes,65,Pass,Algiers,Science Club
+24,Female,26,93.9110333739596,94,High School,No,65,Pass,Ho Chi Minh City,Volunteering
+66,Female,38,78.98249672358692,96,Masters,No,71,Pass,Montevideo,Basketball
+457,Female,37,58.10069389457923,90,High School,No,58,Fail,Madrid,Music Club
+487,Male,33,86.20516646365692,68,Bachelors,Yes,51,Fail,Madrid,Coding Club
+66,Female,38,78.98249672358692,96,Masters,No,71,Pass,Prague,Swimming
+130,Female,17,82.4411420145788,98,PhD,No,62,Pass,Hanoi,Drama Club
+330,Female,20,64.97979558832385,65,Bachelors,Yes,50,Fail,Los Angeles,Basketball
+119,Female,30,55.24345832662405,98,Bachelors,No,62,Pass,Shanghai,Science Club
+381,Female,12,86.79523065980013,71,Masters,Yes,57,Fail,Algiers,Debate Team
+101,Male,37,79.86390411277154,73,PhD,No,70,Pass,Paris,Swimming
+394,Female,10,67.25960724406377,96,Masters,No,64,Pass,Lagos,Basketball
+16,Male,24,86.3060422035924,91,High School,Yes,65,Pass,Vilnius,Volunteering
+23,Female,35,60.36138245040282,93,Bachelors,No,63,Pass,Lagos,Science Club
+91,Female,29,66.07913823400145,98,Masters,No,60,Pass,Shanghai,Music Club
+32,Male,38,65.38886198855246,93,PhD,No,67,Pass,Lisbon,Basketball
+43,Female,16,95.15755293383133,65,Bachelors,Yes,55,Fail,Delhi,Swimming
+277,Male,39,79.64814526294109,50,Masters,Yes,55,Fail,Madrid,Soccer
+268,Female,14,61.36754915149935,85,High School,Yes,50,Fail,Dakar,Basketball
+21,Female,19,62.57212197558992,73,High School,No,50,Fail,New York,Chess Club
+197,Female,29,92.53637300082272,55,PhD,No,61,Pass,Madrid,Soccer
+291,Male,38,61.79530172975406,60,High School,No,54,Fail,Dublin,Debate Team
+263,Male,26,85.80895373664761,78,Bachelors,Yes,58,Fail,Nairobi,Swimming
+368,Female,15,77.8360792391683,95,Masters,No,61,Pass,Riga,Basketball
+342,Female,23,85.7029599894914,98,Bachelors,No,60,Pass,Bucharest,Coding Club
+324,Female,35,98.77706578413782,66,Masters,No,71,Pass,Budapest,Chess Club
+328,Male,38,76.75348594668293,70,Bachelors,No,64,Pass,Tallinn,Soccer
+120,Male,10,86.87026030469096,52,Bachelors,Yes,50,Fail,Vilnius,Science Club
+333,Female,21,71.33944526683747,55,High School,Yes,50,Fail,Toronto,Chess Club
+77,Female,20,75.76180274321055,94,Bachelors,No,56,Fail,Luxembourg,Debate Team
+16,Male,24,86.3060422035924,91,High School,Yes,65,Pass,Melbourne,Drama Club
+92,Female,39,54.6145293114373,73,High School,No,60,Pass,Casablanca,Music Club
+339,Female,38,91.82824066461664,64,PhD,Yes,61,Pass,Mexico City,Volunteering
+84,Female,21,51.590234074258255,74,Bachelors,Yes,50,Fail,Amsterdam,Debate Team
+258,Female,26,70.44775885427467,83,High School,Yes,57,Fail,Budapest,Drama Club
+477,Male,12,90.37151259083804,63,High School,Yes,53,Fail,Hanoi,Chess Club
+229,Male,17,53.330955619540845,85,High School,No,50,Fail,Santiago,Soccer
+237,Female,18,93.93145576867192,81,Bachelors,No,57,Fail,Guadalajara,Volunteering
+47,Female,29,81.83221608111413,51,Masters,No,52,Fail,Sofia,Swimming
+416,Male,31,84.56109288048272,71,Masters,Yes,56,Fail,Rio de Janeiro,Chess Club
+428,Female,18,63.18419013173082,90,Masters,Yes,57,Fail,Algiers,Coding Club
+252,Male,13,68.94107827784579,68,Masters,No,50,Fail,Tunis,Volunteering
+222,Male,38,81.20507720909188,59,PhD,Yes,60,Pass,Rio de Janeiro,Science Club
+302,Male,24,89.38949443572463,95,High School,Yes,61,Pass,Quito,Debate Team
+390,Male,17,91.25536657113298,67,Masters,No,59,Fail,Melbourne,Music Club
+42,Male,35,90.2522333759681,82,High School,Yes,68,Pass,Mumbai,Drama Club
+332,Male,24,69.8659057728799,69,Masters,No,54,Fail,Brussels,Swimming
+235,Female,11,84.68588037016693,88,Bachelors,No,67,Pass,Tunis,Coding Club
+387,Male,35,95.5312001770152,66,High School,Yes,65,Pass,Vienna,Swimming
+345,Male,19,74.0543974193793,61,High School,Yes,51,Fail,Busan,Music Club
+190,Female,33,56.94123867210102,89,Bachelors,Yes,59,Fail,Harare,Basketball
+160,Female,21,95.86978065427658,58,Bachelors,Yes,66,Pass,Bucharest,Basketball
+349,Female,35,66.71814056552411,65,Masters,No,58,Fail,Moscow,Soccer
+409,Female,21,84.94229265804522,90,Masters,Yes,63,Pass,Bridgetown,Swimming
+341,Male,16,64.70223396104858,84,High School,No,50,Fail,Geneva,Science Club
+156,Female,23,84.84807311832108,74,PhD,No,68,Pass,Mumbai,Music Club
+241,Female,30,99.88463079619216,98,Masters,Yes,74,Pass,Mumbai,Coding Club
+11,Male,12,84.5857198584456,80,High School,No,60,Pass,Santiago,Science Club
+313,Female,30,95.63747314395644,78,High School,Yes,61,Pass,São Paulo,Drama Club
+126,Female,39,61.66082057749006,98,Bachelors,Yes,63,Pass,Caracas,Chess Club
+328,Male,38,76.75348594668293,70,Bachelors,No,64,Pass,Bratislava,Chess Club
+368,Female,15,77.8360792391683,95,Masters,No,61,Pass,Lusaka,Drama Club
+339,Female,38,91.82824066461664,64,PhD,Yes,61,Pass,Bogotá,Drama Club
+221,Male,11,94.98337226460863,91,High School,No,57,Fail,Johannesburg,Soccer
+192,Male,32,55.83480320708407,89,Bachelors,No,59,Fail,São Paulo,Chess Club
+496,Male,31,79.41318784849655,67,Bachelors,No,65,Pass,Accra,Debate Team
+370,Male,28,90.26574836789526,74,PhD,No,64,Pass,Vienna,Science Club
+17,Female,31,87.85406010212279,88,Masters,Yes,65,Pass,Shanghai,Drama Club
+101,Male,37,79.86390411277154,73,PhD,No,70,Pass,Melbourne,Debate Team
+175,Female,31,76.49200115905583,55,Masters,Yes,50,Fail,Tunis,Volunteering
+17,Female,31,87.85406010212279,88,Masters,Yes,65,Pass,Melbourne,Science Club
+459,Male,37,92.32039246572786,61,Masters,No,61,Pass,Los Angeles,Drama Club
+232,Female,19,71.57640715682213,62,Bachelors,No,52,Fail,Madrid,Volunteering
+458,Female,27,92.07648301550216,99,Bachelors,No,65,Pass,Los Angeles,Volunteering
+138,Male,31,66.8723416935959,81,PhD,Yes,59,Fail,London,Drama Club
+254,Male,14,80.19789360362563,56,PhD,No,52,Fail,Zurich,Music Club
+469,Male,30,72.98407563805655,65,High School,No,54,Fail,London,Swimming
+329,Female,20,59.2231435709428,96,Bachelors,No,64,Pass,Glasgow,Science Club
+27,Female,18,63.433624101265366,86,High School,No,50,Fail,Lusaka,Debate Team
+360,Male,31,77.58612976296699,99,Masters,Yes,66,Pass,Ho Chi Minh City,Debate Team
+432,Female,10,81.65490316787238,62,PhD,No,50,Fail,Beijing,Soccer
+38,Male,34,74.00229835092375,71,PhD,No,54,Fail,Edinburgh,Basketball
+154,Male,26,52.58177389372564,58,Masters,Yes,50,Fail,Tallinn,Music Club
+484,Female,34,87.91962069728407,74,Masters,Yes,58,Fail,Vilnius,Science Club
+146,Male,14,61.26663988562641,63,High School,Yes,50,Fail,Buenos Aires,Drama Club
+294,Female,21,91.8745394501246,96,Masters,Yes,65,Pass,Ho Chi Minh City,Chess Club
+283,Female,34,88.5623334259869,96,Bachelors,Yes,72,Pass,Lusaka,Science Club
+488,Female,39,81.86157898947434,95,PhD,No,61,Pass,Brussels,Science Club
+434,Female,31,78.66471890897003,71,Bachelors,No,55,Fail,Santiago,Swimming
+39,Male,33,71.02678893325375,74,High School,Yes,58,Fail,Kuala Lumpur,Coding Club
+23,Female,35,60.36138245040282,93,Bachelors,No,63,Pass,Stockholm,Chess Club
+498,Female,27,77.79032907185898,67,Bachelors,No,58,Fail,Mumbai,Chess Club
+234,Female,39,86.52745684046508,61,Bachelors,No,53,Fail,Hanoi,Debate Team
+369,Male,37,86.04065481552533,64,High School,No,61,Pass,Manchester,Volunteering
+340,Female,15,79.37268021170371,83,High School,Yes,61,Pass,Istanbul,Debate Team
+73,Male,19,59.00336361746493,50,Bachelors,Yes,50,Fail,Helsinki,Music Club
+353,Male,14,94.87152049094422,74,Masters,Yes,63,Pass,Sofia,Coding Club
+31,Male,16,91.56857450312506,72,Bachelors,No,52,Fail,Kampala,Swimming
+125,Male,11,76.76677820077617,72,PhD,No,57,Fail,Ho Chi Minh City,Basketball
+410,Female,22,70.12750217984903,66,Masters,Yes,50,Fail,Copenhagen,Swimming
+402,Female,34,78.28883099832802,87,High School,Yes,65,Pass,Shanghai,Soccer
+53,Male,21,95.52356392016364,62,Masters,No,50,Fail,São Paulo,Chess Club
+351,Female,14,87.66231103737255,57,PhD,Yes,55,Fail,Sydney,Swimming
+391,Male,38,68.15296060975453,79,High School,No,60,Pass,Santiago,Music Club
+257,Male,12,74.3178740997804,81,PhD,Yes,50,Fail,Lima,Coding Club
+235,Female,11,84.68588037016693,88,Bachelors,No,67,Pass,Kampala,Science Club
+181,Male,35,66.03210960797571,62,PhD,No,50,Fail,Accra,Coding Club
+445,Female,15,91.85394953515149,93,Bachelors,No,67,Pass,Paris,Basketball
+165,Female,30,91.04307365766763,60,High School,No,50,Fail,Addis Ababa,Coding Club
+461,Female,14,57.733607044161815,57,PhD,No,52,Fail,Moscow,Basketball
+354,Female,15,76.32892333296469,66,PhD,No,50,Fail,Jakarta,Science Club
+446,Male,21,71.85966981786217,98,High School,Yes,62,Pass,São Paulo,Soccer
+324,Female,35,98.77706578413782,66,Masters,No,71,Pass,Copenhagen,Volunteering
+342,Female,23,85.7029599894914,98,Bachelors,No,60,Pass,Berlin,Music Club
+447,Male,33,95.77568386459568,89,Masters,Yes,69,Pass,Abu Dhabi,Science Club
+455,Male,17,63.49556111960975,80,PhD,Yes,53,Fail,Rome,Swimming
+278,Female,26,55.11063321125998,71,High School,Yes,50,Fail,Zurich,Music Club
+94,Female,12,84.38923585480416,61,Bachelors,Yes,50,Fail,Lusaka,Science Club
+409,Female,21,84.94229265804522,90,Masters,Yes,63,Pass,Berlin,Basketball
+226,Female,32,67.7681225909198,88,Bachelors,No,56,Fail,Dubai,Debate Team
+69,Female,35,73.0059579491786,74,PhD,No,60,Pass,Santiago,Debate Team
+450,Female,17,97.46533985288828,55,Bachelors,No,50,Fail,Cape Town,Swimming
+92,Female,39,54.6145293114373,73,High School,No,60,Pass,Glasgow,Chess Club
+26,Female,10,52.34482338956099,52,PhD,No,50,Fail,Vilnius,Chess Club
+224,Female,27,71.93723376941695,92,High School,Yes,59,Fail,Buenos Aires,Debate Team
+356,Male,17,98.94657178079804,57,Bachelors,Yes,50,Fail,Bogotá,Drama Club
+97,Female,29,68.86429826210363,92,High School,No,64,Pass,Addis Ababa,Chess Club
+321,Female,35,61.00486070405485,60,Bachelors,Yes,50,Fail,Stockholm,Chess Club
+188,Male,13,84.22857739399166,100,Masters,Yes,65,Pass,Berlin,Swimming
+83,Male,37,67.38096072413418,86,High School,Yes,65,Pass,Zurich,Debate Team
+240,Female,35,78.65754246286943,76,PhD,Yes,60,Pass,Warsaw,Chess Club
+365,Male,22,66.96356229480955,73,Masters,No,61,Pass,Tokyo,Soccer
+95,Female,32,75.58285067736307,86,Masters,Yes,63,Pass,Delhi,Music Club
+408,Female,35,87.08434721143328,73,Masters,No,60,Pass,Phuket,Drama Club
+289,Male,13,95.53430991278566,56,Bachelors,No,60,Pass,Brussels,Volunteering
+115,Male,39,51.523607636679706,92,Masters,No,64,Pass,Jakarta,Drama Club
+325,Female,14,72.94944940085065,93,PhD,No,54,Fail,Warsaw,Soccer
+327,Male,32,93.0316008945367,78,Bachelors,Yes,77,Pass,Cairo,Chess Club
+172,Male,32,85.54762394183741,97,Bachelors,No,64,Pass,Prague,Science Club
+441,Male,21,59.21854603394816,99,High School,Yes,60,Pass,Santiago,Basketball
+198,Female,33,87.2987262774359,73,Masters,No,72,Pass,Dakar,Science Club
+34,Female,32,98.39868827199116,64,PhD,Yes,67,Pass,Ho Chi Minh City,Swimming
+32,Male,38,65.38886198855246,93,PhD,No,67,Pass,Phuket,Basketball
+103,Female,39,76.82953229936663,62,Masters,Yes,68,Pass,Seoul,Debate Team
+42,Male,35,90.2522333759681,82,High School,Yes,68,Pass,Budapest,Volunteering
+282,Female,25,82.5683605494123,63,High School,Yes,54,Fail,Lima,Drama Club
+116,Female,32,93.36074905373616,83,Masters,No,66,Pass,Singapore,Basketball
+436,Female,12,70.21907507745121,51,Masters,Yes,50,Fail,Harare,Drama Club
+460,Male,37,97.76181563617396,57,High School,No,59,Fail,Casablanca,Basketball
+338,Male,26,68.88629737200847,87,Bachelors,Yes,65,Pass,Phuket,Soccer
+244,Male,20,88.92859695253756,89,PhD,No,61,Pass,Madrid,Science Club
+48,Male,10,77.74078042711128,84,Bachelors,No,56,Fail,San Juan,Volunteering
+6,Female,27,53.17559147950007,57,Masters,Yes,50,Fail,Algiers,Basketball
+52,Female,23,72.54552237080522,62,Bachelors,Yes,50,Fail,Abu Dhabi,Music Club
+95,Female,32,75.58285067736307,86,Masters,Yes,63,Pass,Port-au-Prince,Coding Club
+470,Female,29,53.79667051848111,53,Bachelors,No,50,Fail,Montevideo,Drama Club
+147,Male,31,68.26784098370288,86,High School,Yes,63,Pass,Geneva,Swimming
+355,Female,28,90.03748857430605,78,Masters,Yes,67,Pass,Kampala,Basketball
+316,Female,34,58.27566587139869,51,High School,No,54,Fail,Jakarta,Chess Club
+191,Male,25,50.13554497071648,83,High School,Yes,50,Fail,Beijing,Science Club
+347,Male,27,88.26781405331204,64,PhD,Yes,67,Pass,London,Basketball
+104,Female,28,96.20208795537168,83,High School,No,67,Pass,Paris,Drama Club
+127,Female,31,67.14634321391301,58,High School,No,50,Fail,Rome,Basketball
+151,Male,37,90.29324433705716,52,PhD,Yes,56,Fail,Oslo,Swimming
+157,Male,39,99.86277673841973,83,Masters,No,64,Pass,Shanghai,Science Club
+44,Female,34,80.8631856048646,94,PhD,No,65,Pass,Lima,Basketball
+157,Male,39,99.86277673841973,83,Masters,No,64,Pass,Bangkok,Debate Team
+285,Female,22,53.44607696836094,61,PhD,No,50,Fail,Los Angeles,Music Club
+300,Female,28,87.21248259216443,75,Bachelors,No,65,Pass,Georgetown,Drama Club
+391,Male,38,68.15296060975453,79,High School,No,60,Pass,Phuket,Soccer
+92,Female,39,54.6145293114373,73,High School,No,60,Pass,Amsterdam,Chess Club
+310,Female,36,95.92273624696506,88,High School,Yes,64,Pass,Shanghai,Basketball
+270,Male,26,64.3964808237863,53,High School,No,50,Fail,Busan,Volunteering
+219,Female,21,72.59743006495196,80,Masters,Yes,58,Fail,Lisbon,Music Club
+391,Male,38,68.15296060975453,79,High School,No,60,Pass,Tokyo,Swimming
+139,Male,38,94.98236985725062,84,PhD,Yes,71,Pass,Hanoi,Science Club
+173,Male,35,59.97534636691599,75,High School,No,59,Fail,Lisbon,Soccer
+465,Female,31,67.57700805671094,96,PhD,No,62,Pass,Cairo,Soccer
+222,Male,38,81.20507720909188,59,PhD,Yes,60,Pass,Mexico City,Debate Team
+489,Male,27,99.0288400089994,85,High School,Yes,64,Pass,Riga,Science Club
+145,Female,28,50.37671815670374,53,PhD,No,50,Fail,Georgetown,Soccer
+249,Male,30,87.73176459300583,84,PhD,No,69,Pass,Istanbul,Chess Club
+304,Female,30,55.71336500278439,78,Masters,Yes,50,Fail,London,Science Club
+371,Female,38,99.43643909777214,79,Masters,Yes,68,Pass,Geneva,Soccer
+140,Male,32,80.37776111467863,87,High School,No,69,Pass,Khartoum,Debate Team
+423,Female,28,70.26240440138443,99,PhD,No,62,Pass,Jakarta,Science Club
+1,Male,38,68.83694849689704,64,High School,Yes,50,Fail,Riga,Coding Club
+412,Female,38,82.25270838846647,95,Bachelors,No,76,Pass,Asunción,Soccer
+56,Female,24,84.88209357467318,81,Bachelors,No,67,Pass,Kampala,Drama Club
+30,Female,25,73.81053483945071,75,PhD,No,50,Fail,New York,Soccer
+397,Female,37,93.05340099873608,81,Bachelors,No,61,Pass,Amsterdam,Chess Club
+113,Female,35,92.22203363168144,95,Masters,No,64,Pass,Quito,Chess Club
+150,Female,23,54.3943812270072,90,PhD,Yes,53,Fail,Berlin,Swimming
+162,Male,35,98.75335814725712,89,Bachelors,Yes,71,Pass,Bucharest,Basketball
+218,Male,22,84.14910317085662,100,High School,Yes,63,Pass,Santiago,Music Club
+111,Female,35,56.65584642937391,100,PhD,No,57,Fail,Bangkok,Soccer
+248,Male,34,74.69907435654314,94,Bachelors,No,53,Fail,Lima,Basketball
+67,Female,31,67.07816052282725,59,Bachelors,No,50,Fail,Lagos,Science Club
+218,Male,22,84.14910317085662,100,High School,Yes,63,Pass,Lima,Debate Team
+481,Female,28,76.06503337067846,72,PhD,No,54,Fail,Stockholm,Basketball
+239,Male,13,87.07304555695228,95,Bachelors,No,58,Fail,Busan,Science Club
+238,Female,16,74.77118132019828,62,High School,No,50,Fail,Accra,Music Club
+96,Female,17,57.84888413580968,86,Bachelors,No,50,Fail,Busan,Debate Team
+419,Female,37,76.48308393275406,82,High School,No,63,Pass,Addis Ababa,Swimming
+474,Female,38,50.262690927919245,52,High School,No,51,Fail,Rome,Music Club
+446,Male,21,71.85966981786217,98,High School,Yes,62,Pass,Phuket,Music Club
+495,Male,10,52.208271885505006,93,Masters,Yes,52,Fail,Tallinn,Volunteering
+446,Male,21,71.85966981786217,98,High School,Yes,62,Pass,Montevideo,Science Club
+106,Female,33,87.99777044687929,56,Masters,Yes,55,Fail,Bratislava,Chess Club
+319,Male,30,89.02478537730438,69,Masters,Yes,56,Fail,Rio de Janeiro,Chess Club
+486,Female,19,87.95179227694248,100,High School,No,64,Pass,Rome,Debate Team
+119,Female,30,55.24345832662405,98,Bachelors,No,62,Pass,Dar es Salaam,Chess Club
+88,Male,13,94.71086314479628,64,Masters,Yes,50,Fail,Osaka,Swimming
+286,Male,36,53.866053274439366,85,Bachelors,No,53,Fail,Shanghai,Volunteering
+91,Female,29,66.07913823400145,98,Masters,No,60,Pass,Warsaw,Volunteering
+446,Male,21,71.85966981786217,98,High School,Yes,62,Pass,Santiago,Volunteering
+158,Female,29,94.83051314870104,61,High School,Yes,50,Fail,Guadalajara,Music Club
+17,Female,31,87.85406010212279,88,Masters,Yes,65,Pass,Jakarta,Chess Club
+24,Female,26,93.9110333739596,94,High School,No,65,Pass,Moscow,Swimming
+466,Male,26,70.63967753033762,56,PhD,No,55,Fail,Toronto,Basketball
+444,Female,17,53.41248526770458,91,High School,Yes,50,Fail,Edinburgh,Science Club
+376,Female,19,57.05409243888568,69,Masters,No,50,Fail,Asunción,Basketball
+415,Male,25,95.02861506181928,65,Masters,Yes,50,Fail,Kuala Lumpur,Coding Club
+247,Male,13,85.70320411118071,73,High School,Yes,53,Fail,Edinburgh,Volunteering
+188,Male,13,84.22857739399166,100,Masters,Yes,65,Pass,Jakarta,Science Club
+392,Male,18,51.71140554102646,67,Masters,Yes,50,Fail,Vancouver,Music Club
+486,Female,19,87.95179227694248,100,High School,No,64,Pass,Bridgetown,Volunteering
+283,Female,34,88.5623334259869,96,Bachelors,Yes,72,Pass,Prague,Drama Club
+447,Male,33,95.77568386459568,89,Masters,Yes,69,Pass,Los Angeles,Swimming
+169,Male,39,91.92912793513123,87,High School,No,73,Pass,Lisbon,Debate Team
+398,Female,39,60.975526254047935,60,PhD,No,50,Fail,Port-au-Prince,Drama Club
+65,Male,39,60.45653955392571,93,High School,No,59,Fail,London,Debate Team
+140,Male,32,80.37776111467863,87,High School,No,69,Pass,Osaka,Debate Team
+255,Male,18,75.11441737312651,59,Bachelors,Yes,50,Fail,Sucre,Basketball
+293,Male,28,59.316043974706034,55,Masters,Yes,50,Fail,Sucre,Soccer
+202,Female,37,60.25009050266186,77,PhD,Yes,51,Fail,Sydney,Science Club
+491,Female,22,82.33324595585816,57,Masters,No,50,Fail,Tokyo,Volunteering
+236,Female,28,58.33653799966916,51,Bachelors,No,50,Fail,Sofia,Coding Club
+364,Female,34,79.75244898502103,93,Masters,No,59,Fail,Port-au-Prince,Chess Club
+207,Female,20,89.07572408757075,92,Bachelors,Yes,62,Pass,Stockholm,Soccer
+437,Female,25,88.54556885321352,87,High School,No,61,Pass,Rome,Music Club
+63,Male,34,81.04028422110457,93,High School,No,69,Pass,Ho Chi Minh City,Debate Team
+290,Female,21,56.14053909228669,78,Bachelors,Yes,50,Fail,Bratislava,Basketball
+464,Male,36,67.21918660221166,69,Masters,No,57,Fail,Accra,Coding Club
+201,Male,12,99.54647382286952,89,Masters,No,67,Pass,Bangkok,Chess Club
+375,Male,36,97.22048627886367,93,Masters,Yes,65,Pass,Guadalajara,Music Club
+133,Male,10,86.84112376974565,99,PhD,No,57,Fail,Melbourne,Soccer
+36,Male,12,89.59089197348165,53,High School,Yes,50,Fail,Zurich,Coding Club
+397,Female,37,93.05340099873608,81,Bachelors,No,61,Pass,Abu Dhabi,Volunteering
+445,Female,15,91.85394953515149,93,Bachelors,No,67,Pass,Khartoum,Coding Club
+160,Female,21,95.86978065427658,58,Bachelors,Yes,66,Pass,Bratislava,Basketball
+346,Male,18,74.85059744106245,67,Bachelors,No,50,Fail,Dubai,Coding Club
+162,Male,35,98.75335814725712,89,Bachelors,Yes,71,Pass,Los Angeles,Chess Club
+122,Male,35,78.19825460094182,54,Bachelors,No,57,Fail,Manchester,Science Club
+69,Female,35,73.0059579491786,74,PhD,No,60,Pass,Hanoi,Coding Club
+308,Female,34,73.28500611594066,62,Masters,No,55,Fail,Shanghai,Basketball
+142,Male,21,74.91238489244701,96,High School,No,61,Pass,Kuala Lumpur,Debate Team
+418,Female,20,91.12919379558367,69,PhD,No,50,Fail,Vancouver,Volunteering
+80,Female,10,61.19245329531603,99,High School,No,53,Fail,Istanbul,Soccer
+208,Female,14,91.3970443588746,94,High School,No,73,Pass,Toronto,Drama Club
+222,Male,38,81.20507720909188,59,PhD,Yes,60,Pass,Bali,Soccer
+307,Female,21,96.14801158992424,84,Bachelors,Yes,65,Pass,Brussels,Basketball
+29,Female,31,74.90825933229465,89,PhD,Yes,68,Pass,Glasgow,Swimming
+279,Male,26,95.93752611303732,75,Masters,No,61,Pass,Cape Town,Music Club
+479,Male,15,89.5006779395928,67,High School,No,52,Fail,New York,Chess Club
+340,Female,15,79.37268021170371,83,High School,Yes,61,Pass,Reykjavik,Debate Team
+177,Male,13,88.38897507214193,97,High School,No,59,Fail,Bangkok,Basketball
+424,Male,29,74.87324469899453,82,PhD,Yes,60,Pass,Lusaka,Basketball
+92,Female,39,54.6145293114373,73,High School,No,60,Pass,Vancouver,Music Club
+400,Male,37,88.98793873940154,74,Bachelors,Yes,64,Pass,Vienna,Chess Club
+97,Female,29,68.86429826210363,92,High School,No,64,Pass,Ho Chi Minh City,Swimming
+368,Female,15,77.8360792391683,95,Masters,No,61,Pass,Istanbul,Debate Team
+289,Male,13,95.53430991278566,56,Bachelors,No,60,Pass,Algiers,Volunteering
+93,Female,24,74.05726970281466,53,PhD,No,50,Fail,Dubai,Science Club
+399,Female,34,98.7273632599435,94,Bachelors,No,66,Pass,Osaka,Debate Team
+241,Female,30,99.88463079619216,98,Masters,Yes,74,Pass,Rio de Janeiro,Drama Club
+76,Female,31,93.71588024272086,52,Bachelors,No,55,Fail,Singapore,Science Club
+207,Female,20,89.07572408757075,92,Bachelors,Yes,62,Pass,Buenos Aires,Volunteering
+468,Male,10,79.91430291340774,69,Bachelors,Yes,50,Fail,Cape Town,Drama Club
+312,Male,13,51.64233351217192,78,PhD,Yes,50,Fail,São Paulo,Debate Team
+148,Male,34,74.3904900404369,83,High School,Yes,59,Fail,Vilnius,Soccer
+70,Female,31,79.23830529745769,88,PhD,No,57,Fail,Paris,Volunteering
+40,Male,22,89.23341319721547,62,PhD,Yes,50,Fail,Montevideo,Swimming
+467,Female,18,85.24627748444766,60,Masters,Yes,52,Fail,Phuket,Basketball
+197,Female,29,92.53637300082272,55,PhD,No,61,Pass,Buenos Aires,Drama Club
+276,Female,18,86.30477930312003,59,High School,Yes,51,Fail,Tunis,Coding Club
+227,Male,26,69.5741055100751,80,Masters,Yes,53,Fail,Stockholm,Volunteering
+235,Female,11,84.68588037016693,88,Bachelors,No,67,Pass,Tokyo,Coding Club
+393,Female,16,91.53272532826249,95,PhD,Yes,64,Pass,Bogotá,Swimming
+283,Female,34,88.5623334259869,96,Bachelors,Yes,72,Pass,Bangkok,Coding Club
+426,Male,27,55.32893650643372,82,PhD,Yes,52,Fail,Rio de Janeiro,Soccer
+396,Female,22,68.13789473329727,87,PhD,No,54,Fail,Kingston,Chess Club
+411,Male,22,60.90115537470432,61,PhD,Yes,50,Fail,Abu Dhabi,Soccer
+69,Female,35,73.0059579491786,74,PhD,No,60,Pass,Khartoum,Swimming
+405,Female,15,59.105356941079165,60,Bachelors,No,50,Fail,Vienna,Volunteering
+342,Female,23,85.7029599894914,98,Bachelors,No,60,Pass,Belgrade,Volunteering
+205,Female,38,86.07982753756386,90,Masters,Yes,72,Pass,Bucharest,Volunteering
+50,Female,23,86.31985163251142,83,Bachelors,Yes,55,Fail,Dubai,Coding Club
+350,Male,11,53.775168190194464,76,PhD,No,50,Fail,Glasgow,Chess Club
+403,Male,33,99.26836561208674,90,High School,Yes,64,Pass,Dubai,Chess Club
+454,Female,35,74.18774709662064,88,PhD,Yes,69,Pass,Addis Ababa,Coding Club
+25,Female,17,87.84995660861144,83,PhD,No,58,Fail,Edinburgh,Volunteering
+494,Female,33,83.49587322750196,100,PhD,No,71,Pass,Moscow,Basketball
+369,Male,37,86.04065481552533,64,High School,No,61,Pass,Santiago,Coding Club
+144,Female,25,96.68459118799372,58,High School,Yes,53,Fail,Budapest,Music Club
+273,Female,32,56.95580970715309,61,High School,Yes,50,Fail,Khartoum,Drama Club
+421,Female,13,74.90453767555029,89,High School,Yes,50,Fail,Kingston,Coding Club
+58,Male,11,72.96734039730862,88,PhD,No,54,Fail,Tunis,Basketball
+359,Male,10,70.39922476824223,95,PhD,No,50,Fail,Edinburgh,Swimming
+240,Female,35,78.65754246286943,76,PhD,Yes,60,Pass,Los Angeles,Soccer
+339,Female,38,91.82824066461664,64,PhD,Yes,61,Pass,Harare,Music Club
+115,Male,39,51.523607636679706,92,Masters,No,64,Pass,Lisbon,Debate Team
+198,Female,33,87.2987262774359,73,Masters,No,72,Pass,San Juan,Volunteering
+82,Female,30,67.25413139111933,67,High School,No,50,Fail,Sucre,Chess Club
+101,Male,37,79.86390411277154,73,PhD,No,70,Pass,Warsaw,Coding Club
+206,Male,28,52.40473219820439,62,PhD,No,50,Fail,Nairobi,Volunteering
+323,Female,23,75.75868412034063,52,Masters,Yes,50,Fail,San Juan,Soccer
+159,Male,14,78.799920890283,91,PhD,No,61,Pass,Cape Town,Science Club
+383,Female,22,56.13884448313542,73,Bachelors,No,50,Fail,Geneva,Volunteering
+339,Female,38,91.82824066461664,64,PhD,Yes,61,Pass,Amsterdam,Basketball
+475,Male,22,55.15468730068724,90,Masters,Yes,51,Fail,Athens,Chess Club
+301,Male,35,60.27899041878187,83,Masters,No,62,Pass,Kampala,Debate Team
+329,Female,20,59.2231435709428,96,Bachelors,No,64,Pass,Cairo,Coding Club
+230,Male,38,61.45126954623981,51,Masters,Yes,50,Fail,Khartoum,Debate Team
+201,Male,12,99.54647382286952,89,Masters,No,67,Pass,Lisbon,Science Club
+267,Female,39,67.12621285892718,81,Masters,No,59,Fail,Beijing,Drama Club
+489,Male,27,99.0288400089994,85,High School,Yes,64,Pass,Buenos Aires,Volunteering
+22,Male,11,63.73658985129544,84,Masters,Yes,50,Fail,Geneva,Music Club
+287,Male,28,55.21234830259048,84,Masters,Yes,50,Fail,Rio de Janeiro,Music Club
+42,Male,35,90.2522333759681,82,High School,Yes,68,Pass,Dar es Salaam,Music Club
+11,Male,12,84.5857198584456,80,High School,No,60,Pass,Bali,Volunteering
+87,Female,16,67.7995742135993,95,High School,Yes,52,Fail,Geneva,Chess Club
+231,Female,35,77.14246553067045,63,Masters,Yes,57,Fail,Riga,Swimming
+380,Male,39,81.66203874554803,97,Bachelors,Yes,66,Pass,Guadalajara,Volunteering
+373,Female,31,90.3425074481293,56,PhD,Yes,58,Fail,Berlin,Soccer
+235,Female,11,84.68588037016693,88,Bachelors,No,67,Pass,London,Volunteering
+375,Male,36,97.22048627886367,93,Masters,Yes,65,Pass,Shanghai,Chess Club
+342,Female,23,85.7029599894914,98,Bachelors,No,60,Pass,Jakarta,Coding Club
+137,Male,14,68.93863129756447,52,Bachelors,No,50,Fail,Riga,Music Club
+156,Female,23,84.84807311832108,74,PhD,No,68,Pass,Stockholm,Basketball
+179,Male,29,75.30519781796735,77,Masters,No,61,Pass,Lusaka,Chess Club
+399,Female,34,98.7273632599435,94,Bachelors,No,66,Pass,Quito,Basketball
+217,Female,38,79.41533378975284,94,High School,No,63,Pass,Quito,Debate Team
+260,Male,25,50.61015361590223,64,Bachelors,Yes,50,Fail,New York,Debate Team
+404,Male,10,73.55327263469073,57,PhD,No,50,Fail,Kuala Lumpur,Coding Club
+327,Male,32,93.0316008945367,78,Bachelors,Yes,77,Pass,Bangkok,Basketball
+348,Female,36,55.14907396656578,93,High School,Yes,61,Pass,Glasgow,Drama Club
+204,Male,10,96.32247117948556,97,PhD,Yes,56,Fail,Zurich,Drama Club
+117,Male,18,67.70733353965628,75,Bachelors,Yes,50,Fail,Dublin,Music Club
+310,Female,36,95.92273624696506,88,High School,Yes,64,Pass,Vilnius,Soccer
+114,Female,30,87.48081160042938,59,Masters,No,50,Fail,Asunción,Volunteering
+200,Male,27,96.64690335499772,65,Bachelors,No,63,Pass,Nairobi,Soccer
+456,Male,35,76.99213894540966,81,PhD,No,65,Pass,Los Angeles,Drama Club
+10,Female,35,53.76795301762312,67,Masters,Yes,50,Fail,Bogotá,Soccer
+184,Male,10,72.71339861095498,89,High School,No,54,Fail,Montevideo,Drama Club
+153,Male,24,92.11570176490908,78,Masters,No,53,Fail,Dakar,Soccer
+130,Female,17,82.4411420145788,98,PhD,No,62,Pass,Mexico City,Drama Club
+99,Female,22,93.41505535177934,88,High School,No,63,Pass,Manchester,Coding Club
+196,Female,36,55.33496250567181,82,Masters,No,56,Fail,Istanbul,Music Club
+422,Female,12,53.35876999578551,81,Bachelors,Yes,50,Fail,Algiers,Debate Team
+401,Female,26,55.71189629601984,82,Bachelors,No,52,Fail,Helsinki,Soccer
+195,Male,37,89.71447249832312,94,Masters,Yes,66,Pass,Quito,Coding Club
+337,Male,21,81.24879935255261,50,Bachelors,Yes,55,Fail,Nairobi,Chess Club
+318,Male,22,65.57365855663787,63,High School,Yes,50,Fail,Montevideo,Music Club
+7,Male,34,51.84109338179957,99,PhD,Yes,54,Fail,Bratislava,Chess Club
+490,Male,36,95.16819063180124,94,Masters,No,64,Pass,Toronto,Science Club
+78,Female,37,98.65551746350522,63,Masters,No,70,Pass,Glasgow,Volunteering
+420,Female,14,90.75272142012284,59,Bachelors,Yes,55,Fail,Moscow,Music Club
+81,Male,17,91.08953184222246,53,Bachelors,No,53,Fail,Los Angeles,Volunteering
+378,Male,28,66.19950305533999,58,High School,Yes,53,Fail,Tunis,Chess Club
+242,Male,27,87.62015600194113,90,PhD,No,52,Fail,Asunción,Science Club
+102,Female,19,99.31284979334076,60,Bachelors,No,60,Pass,Port-au-Prince,Swimming
+280,Female,39,89.50423185620434,67,PhD,No,64,Pass,Asunción,Science Club
+437,Female,25,88.54556885321352,87,High School,No,61,Pass,Sydney,Swimming
+61,Male,31,53.311798892593295,98,Bachelors,No,67,Pass,Kuala Lumpur,Basketball
+110,Male,32,57.38695459531134,78,PhD,No,50,Fail,Warsaw,Basketball
+44,Female,34,80.8631856048646,94,PhD,No,65,Pass,Bali,Drama Club
+294,Female,21,91.8745394501246,96,Masters,Yes,65,Pass,Oslo,Basketball
+360,Male,31,77.58612976296699,99,Masters,Yes,66,Pass,Sucre,Coding Club
+179,Male,29,75.30519781796735,77,Masters,No,61,Pass,Manchester,Drama Club
+309,Female,29,74.04184890445367,90,Masters,No,62,Pass,Bogotá,Coding Club
+371,Female,38,99.43643909777214,79,Masters,Yes,68,Pass,Rio de Janeiro,Basketball
+193,Male,11,73.65831005259462,76,High School,Yes,54,Fail,Lisbon,Debate Team
+393,Female,16,91.53272532826249,95,PhD,Yes,64,Pass,Lima,Volunteering
+388,Male,29,81.23806355216256,57,PhD,Yes,50,Fail,Port-au-Prince,Coding Club
+123,Female,10,92.03549929389656,54,High School,No,50,Fail,Dubai,Debate Team
+357,Female,25,91.98944297282851,64,Bachelors,Yes,57,Fail,Bridgetown,Soccer
+339,Female,38,91.82824066461664,64,PhD,Yes,61,Pass,Busan,Volunteering
+328,Male,38,76.75348594668293,70,Bachelors,No,64,Pass,Bali,Basketball
+310,Female,36,95.92273624696506,88,High School,Yes,64,Pass,Reykjavik,Music Club
+360,Male,31,77.58612976296699,99,Masters,Yes,66,Pass,Dakar,Volunteering
+256,Male,33,76.99303185564183,90,High School,Yes,69,Pass,London,Music Club
+292,Male,18,58.27602551836449,82,High School,Yes,50,Fail,Addis Ababa,Chess Club
+2,Female,30,87.4789149988036,56,PhD,No,50,Fail,Zurich,Chess Club
+95,Female,32,75.58285067736307,86,Masters,Yes,63,Pass,Port-au-Prince,Soccer
+243,Female,22,85.34902306217296,66,High School,No,50,Fail,Athens,Chess Club
+167,Female,13,76.75183660224553,73,Bachelors,No,50,Fail,Toronto,Drama Club
+471,Male,22,53.888267203947855,55,Masters,No,50,Fail,Hanoi,Science Club
+311,Female,30,79.35341120682835,64,Masters,Yes,50,Fail,Caracas,Music Club
+425,Female,34,86.01012908161479,51,PhD,No,58,Fail,Bangkok,Volunteering
+462,Male,18,81.16662754524954,99,Bachelors,No,56,Fail,Tallinn,Debate Team
+168,Male,10,73.8309742063206,64,High School,No,50,Fail,Bridgetown,Basketball
+306,Male,12,93.17590703064783,66,PhD,No,52,Fail,Cape Town,Coding Club
+394,Female,10,67.25960724406377,96,Masters,No,64,Pass,Khartoum,Science Club
+220,Male,23,85.6891227427663,72,PhD,Yes,55,Fail,Copenhagen,Chess Club
+400,Male,37,88.98793873940154,74,Bachelors,Yes,64,Pass,San Juan,Science Club
+353,Male,14,94.87152049094422,74,Masters,Yes,63,Pass,Sofia,Soccer
+17,Female,31,87.85406010212279,88,Masters,Yes,65,Pass,Vancouver,Volunteering
+250,Male,38,55.14580153720725,97,High School,Yes,58,Fail,Bucharest,Coding Club
+347,Male,27,88.26781405331204,64,PhD,Yes,67,Pass,Algiers,Science Club
+275,Male,12,62.80077659268311,66,High School,Yes,50,Fail,New York,Music Club
+32,Male,38,65.38886198855246,93,PhD,No,67,Pass,Sydney,Soccer
+317,Male,16,51.69395801232975,96,PhD,Yes,51,Fail,Osaka,Coding Club
+182,Male,28,79.69415487789495,66,Bachelors,No,50,Fail,Abu Dhabi,Coding Club
+128,Male,25,73.69849707152781,84,High School,Yes,57,Fail,Lisbon,Swimming
+75,Male,24,70.5830607178764,98,Bachelors,Yes,57,Fail,Algiers,Basketball
+245,Male,38,57.15639927742348,80,Masters,Yes,54,Fail,Hanoi,Music Club
+61,Male,31,53.311798892593295,98,Bachelors,No,67,Pass,Bratislava,Debate Team
+131,Female,22,73.97910508771251,91,PhD,No,57,Fail,Lisbon,Drama Club
+200,Male,27,96.64690335499772,65,Bachelors,No,63,Pass,Kingston,Drama Club
+107,Female,28,76.5632876986767,53,High School,Yes,50,Fail,Kingston,Coding Club
+62,Male,28,52.293063320231646,78,PhD,Yes,50,Fail,Dakar,Debate Team
+328,Male,38,76.75348594668293,70,Bachelors,No,64,Pass,Melbourne,Music Club
+280,Female,39,89.50423185620434,67,PhD,No,64,Pass,Casablanca,Chess Club
+211,Male,10,91.25663383463989,85,Bachelors,Yes,63,Pass,Helsinki,Science Club
+101,Male,37,79.86390411277154,73,PhD,No,70,Pass,Dubai,Basketball
+161,Male,25,50.26500031988027,64,Bachelors,No,50,Fail,New York,Basketball
+244,Male,20,88.92859695253756,89,PhD,No,61,Pass,Warsaw,Volunteering
+486,Female,19,87.95179227694248,100,High School,No,64,Pass,Luxembourg,Drama Club
+336,Female,35,73.41159142206897,52,PhD,Yes,50,Fail,Sofia,Swimming
+32,Male,38,65.38886198855246,93,PhD,No,67,Pass,Algiers,Soccer
+266,Female,32,97.95373972820138,69,Bachelors,Yes,58,Fail,Dar es Salaam,Basketball
+32,Male,38,65.38886198855246,93,PhD,No,67,Pass,Busan,Drama Club
+409,Female,21,84.94229265804522,90,Masters,Yes,63,Pass,Geneva,Basketball
+399,Female,34,98.7273632599435,94,Bachelors,No,66,Pass,Quito,Science Club
+307,Female,21,96.14801158992424,84,Bachelors,Yes,65,Pass,Istanbul,Science Club
+244,Male,20,88.92859695253756,89,PhD,No,61,Pass,Bridgetown,Volunteering
+169,Male,39,91.92912793513123,87,High School,No,73,Pass,Kuala Lumpur,Coding Club
+353,Male,14,94.87152049094422,74,Masters,Yes,63,Pass,Bangkok,Coding Club
+367,Female,13,94.37302412567516,69,PhD,No,62,Pass,Casablanca,Music Club
+129,Female,34,67.75521516396523,69,High School,Yes,52,Fail,Busan,Coding Club
+485,Male,11,81.94746926671309,94,High School,Yes,53,Fail,Riga,Soccer
+37,Female,27,79.4977948568818,78,Masters,Yes,59,Fail,Hanoi,Basketball
+100,Male,27,54.225850384034096,95,High School,No,56,Fail,Toronto,Drama Club
+132,Male,30,79.20997423570847,84,Masters,No,65,Pass,Jakarta,Soccer
+54,Female,28,64.89797257709752,67,Masters,Yes,51,Fail,Vienna,Coding Club
+374,Female,16,98.13246592774374,66,Masters,No,51,Fail,Busan,Basketball
+367,Female,13,94.37302412567516,69,PhD,No,62,Pass,New York,Volunteering
+63,Male,34,81.04028422110457,93,High School,No,69,Pass,Nairobi,Soccer
+269,Male,21,71.17984312102415,99,High School,Yes,59,Fail,Harare,Chess Club
+210,Male,12,89.97685654597578,91,PhD,No,57,Fail,Shanghai,Drama Club
+385,Male,37,82.14627818071267,60,PhD,No,64,Pass,Shanghai,Drama Club
+105,Female,26,61.80582665587022,74,High School,No,50,Fail,Vilnius,Swimming
+497,Male,10,99.96767497829174,55,High School,No,59,Fail,Tallinn,Debate Team
+465,Female,31,67.57700805671094,96,PhD,No,62,Pass,Algiers,Chess Club
+170,Female,39,60.25387800747296,57,Masters,Yes,50,Fail,Istanbul,Coding Club
+199,Male,21,70.42591464679585,68,Masters,No,50,Fail,Oslo,Debate Team
+183,Female,35,68.46152407549481,99,PhD,Yes,67,Pass,New York,Science Club
+142,Male,21,74.91238489244701,96,High School,No,61,Pass,Jakarta,Basketball
+215,Male,20,95.3933065231258,54,PhD,No,54,Fail,Oslo,Science Club
+66,Female,38,78.98249672358692,96,Masters,No,71,Pass,Cairo,Soccer
+347,Male,27,88.26781405331204,64,PhD,Yes,67,Pass,Montevideo,Volunteering
+437,Female,25,88.54556885321352,87,High School,No,61,Pass,Edinburgh,Chess Club
+447,Male,33,95.77568386459568,89,Masters,Yes,69,Pass,Amsterdam,Soccer
+281,Female,29,51.15113023938188,99,Bachelors,No,50,Fail,Luxembourg,Chess Club
+360,Male,31,77.58612976296699,99,Masters,Yes,66,Pass,Abu Dhabi,Basketball
+355,Female,28,90.03748857430605,78,Masters,Yes,67,Pass,Sofia,Swimming
+235,Female,11,84.68588037016693,88,Bachelors,No,67,Pass,New York,Basketball
+370,Male,28,90.26574836789526,74,PhD,No,64,Pass,São Paulo,Drama Club
+427,Male,24,57.00092693302245,82,Bachelors,Yes,53,Fail,Bangkok,Drama Club
+205,Female,38,86.07982753756386,90,Masters,Yes,72,Pass,Reykjavik,Drama Club
+310,Female,36,95.92273624696506,88,High School,Yes,64,Pass,Manchester,Science Club
+228,Female,35,76.5928739844087,67,Bachelors,No,62,Pass,Geneva,Drama Club
+352,Male,38,63.61509273601497,95,Masters,Yes,58,Fail,Dubai,Soccer
+297,Female,37,61.36978104385563,100,High School,Yes,66,Pass,Warsaw,Drama Club
+417,Male,30,84.15919282227406,77,Masters,Yes,61,Pass,Addis Ababa,Coding Club
+272,Female,22,95.59262044214825,66,PhD,Yes,50,Fail,Kuala Lumpur,Volunteering
+443,Male,25,88.54929627677393,83,PhD,No,56,Fail,Accra,Swimming
+313,Female,30,95.63747314395644,78,High School,Yes,61,Pass,Georgetown,Drama Club
+500,Female,26,65.64274282527938,71,High School,Yes,52,Fail,Khartoum,Science Club
+409,Female,21,84.94229265804522,90,Masters,Yes,63,Pass,Kingston,Volunteering
+235,Female,11,84.68588037016693,88,Bachelors,No,67,Pass,Khartoum,Volunteering
+303,Male,25,80.18607658650694,83,High School,No,67,Pass,Accra,Basketball
+228,Female,35,76.5928739844087,67,Bachelors,No,62,Pass,New York,Soccer
+363,Male,16,75.2753939553017,78,High School,No,57,Fail,Mexico City,Drama Club
+64,Male,35,67.37067041127071,65,Masters,Yes,56,Fail,Kuala Lumpur,Drama Club
+453,Female,13,56.75006387106035,58,Bachelors,No,50,Fail,Geneva,Swimming
+102,Female,19,99.31284979334076,60,Bachelors,No,60,Pass,Rome,Music Club
+5,Male,12,78.45407345828738,97,Masters,No,53,Fail,Glasgow,Swimming
+103,Female,39,76.82953229936663,62,Masters,Yes,68,Pass,Asunción,Chess Club
+296,Female,16,65.57221320228206,81,Masters,No,50,Fail,Sucre,Science Club
+320,Female,19,63.87935863147091,71,PhD,No,50,Fail,Bali,Debate Team
+343,Male,22,76.38238650723929,74,High School,Yes,50,Fail,Manchester,Swimming
+188,Male,13,84.22857739399166,100,Masters,Yes,65,Pass,Nairobi,Music Club
+171,Female,14,98.3997033252117,54,Masters,Yes,55,Fail,Bucharest,Coding Club
+288,Male,26,92.02198159902116,61,Bachelors,No,59,Fail,Casablanca,Volunteering
+174,Female,19,86.81235918492442,67,High School,No,54,Fail,Vancouver,Chess Club
+456,Male,35,76.99213894540966,81,PhD,No,65,Pass,Singapore,Debate Team
+380,Male,39,81.66203874554803,97,Bachelors,Yes,66,Pass,Beijing,Basketball
+203,Male,10,68.96142924819003,82,Bachelors,No,58,Fail,Lisbon,Debate Team
+339,Female,38,91.82824066461664,64,PhD,Yes,61,Pass,Athens,Basketball
+329,Female,20,59.2231435709428,96,Bachelors,No,64,Pass,Kingston,Debate Team
+334,Male,18,89.98910110371347,68,Bachelors,No,56,Fail,Kampala,Drama Club
+98,Female,25,50.12975121918232,55,Masters,Yes,50,Fail,Melbourne,Volunteering
+135,Male,38,79.32677173303796,66,High School,Yes,57,Fail,Singapore,Debate Team
+355,Female,28,90.03748857430605,78,Masters,Yes,67,Pass,Delhi,Music Club
+212,Male,10,59.320249339407205,76,Bachelors,No,50,Fail,Lagos,Music Club
+303,Male,25,80.18607658650694,83,High School,No,67,Pass,Casablanca,Coding Club
+172,Male,32,85.54762394183741,97,Bachelors,No,64,Pass,Accra,Soccer
+134,Male,25,77.88711329752186,67,High School,No,50,Fail,Vancouver,Volunteering
+483,Male,24,97.90853965019652,62,High School,Yes,53,Fail,Tallinn,Swimming
+176,Female,14,85.36150478222223,86,High School,Yes,57,Fail,Paris,Music Club
+307,Female,21,96.14801158992424,84,Bachelors,Yes,65,Pass,Tunis,Debate Team
+4,Male,10,91.45821103532572,100,High School,No,59,Fail,London,Science Club
+109,Female,35,53.11706812556207,69,PhD,Yes,54,Fail,Port-au-Prince,Science Club
+198,Female,33,87.2987262774359,73,Masters,No,72,Pass,Belgrade,Drama Club
+407,Female,15,75.62288279409609,100,Bachelors,No,54,Fail,Budapest,Basketball
+183,Female,35,68.46152407549481,99,PhD,Yes,67,Pass,Kingston,Science Club
+472,Female,37,50.11696953128892,71,PhD,Yes,55,Fail,Glasgow,Volunteering
+442,Female,19,54.5168480288804,64,Bachelors,No,50,Fail,Port-au-Prince,Music Club
+149,Male,38,92.5408758918073,60,PhD,Yes,64,Pass,Port-au-Prince,Drama Club
+118,Female,21,69.85819162520413,90,Masters,Yes,50,Fail,Port-au-Prince,Basketball
+358,Female,22,93.34968800057618,76,Bachelors,No,60,Pass,Hanoi,Volunteering
+492,Male,14,84.65876057284623,78,PhD,Yes,50,Fail,Santiago,Volunteering
+301,Male,35,60.27899041878187,83,Masters,No,62,Pass,Phuket,Drama Club
+473,Male,25,98.38496941035432,75,Bachelors,Yes,57,Fail,Amsterdam,Coding Club
+307,Female,21,96.14801158992424,84,Bachelors,Yes,65,Pass,Kuala Lumpur,Science Club
+46,Female,22,80.40439247709426,93,Bachelors,Yes,55,Fail,Accra,Volunteering
